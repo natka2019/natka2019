@@ -14,7 +14,3 @@
 </div>
 
 ##
-
-<div>
-![Snake animation](https://github.com/natka2019/natka2019/blob/output/git-hub-contribution-grid-snake.svg)
-</div>
